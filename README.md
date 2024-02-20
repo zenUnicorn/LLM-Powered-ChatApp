@@ -1,3 +1,3 @@
-# LLM-Powered Chat Application
+# LLM-Powered Chat Application 🤖 
 
 ###
