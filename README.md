@@ -5,7 +5,7 @@ This is a project focusing on building an LLM-powered chatApp using OpenAI, Stre
 ## Code 
 The code is publicly available on GitHub: https://github.com/zenUnicorn/LLM-Powered-ChatApp
 
-![Image]([https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true])
+![Image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true)
 
 ### Helpful links:
 - https://github.com/openai/openai-python
