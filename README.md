@@ -11,3 +11,4 @@ The code is publicly available on GitHub: https://github.com/zenUnicorn/LLM-Powe
 - https://github.com/openai/openai-python
 - https://docs.streamlit.io/
 - https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps
+- 
